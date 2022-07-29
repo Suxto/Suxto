@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suxto
 - 👀 I’m interested in CS::GO
 - 🌱 I’m currently learning Java and JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Study JavaWeb
 - 📫 How to reach me ...
 
 <!---
